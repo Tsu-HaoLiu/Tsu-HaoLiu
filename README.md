@@ -3,7 +3,6 @@
 
 ### 💾 My Tech Stack & Technologies
 
-PHP
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)
 ![PHP](https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3)
