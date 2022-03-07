@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### 💾 My Tech Stack & Technology
+### 💾 My Tech Stack & Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3)
