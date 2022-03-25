@@ -19,6 +19,8 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-000?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat-square&logo=pandas)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=flat-square&logo=opencv)
+![Stack Overflow](https://img.shields.io/badge/-StackOverflow-000?style=flat-square&logo=StackOverflow)
+
 
 
 
