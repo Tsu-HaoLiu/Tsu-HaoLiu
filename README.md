@@ -41,7 +41,7 @@
 
 ## 📈 Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Tsu-HaoLiu&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="400" /><img src="https://github-readme-stats.vercel.app/api?username=Tsu-HaoLiu&show_icons=true&hide_border=true&theme=gotham" width="400" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Tsu-HaoLiu&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="423" /><img src="https://github-readme-stats.vercel.app/api?username=Tsu-HaoLiu&show_icons=true&hide_border=true&theme=gotham" width="423" />
 
 ![](https://komarev.com/ghpvc/?username=Tsu-HaoLiu)
 
