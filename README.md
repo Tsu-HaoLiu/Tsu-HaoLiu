@@ -1,7 +1,23 @@
-### Hi there 👋
+## Hi there 👋 I'm Tsu-Hao ✨
 
+#### A versatile, detailed-oriented, and committed developer, with an eagerness and passion to learn. 
 
-### 💾 My Tech Stack & Technologies
+##
+
+<img align="right" src="https://user-images.githubusercontent.com/96331813/160326423-98f24494-b1ed-4e13-80f6-357ecb89d918.gif" width="300" />
+
+<p align="left">
+  <ul>
+    <li>📕 <strong>I’m currently learning:</strong> C++, Golang</li>
+    <li>🧐 <strong>Interested in:</strong> Full stack, DevOps, Infra, Security</li>
+    <li>🔧 <strong>Currently Working on:</strong> <a href="https://github.com/Tsu-HaoLiu/Toolbox-Modnotes-Integration">Toolbox modnotes intergration</a></li>
+    <li>📫 <strong>Ask me anything on <a href="https://github.com/Tsu-HaoLiu/Tsu-HaoLiu/issues">my issues page.</a></strong></li>
+    <li>⚡ <strong>Fun fact:</strong> I love space exploration</li>
+  </ul>
+</p>
+<br>
+
+## 💾 My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)
 ![PHP](https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php)
@@ -23,7 +39,11 @@
 ![Stack Overflow](https://img.shields.io/badge/-StackOverflow-000?style=flat-square&logo=StackOverflow)
 
 
+## 📈 Stats
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tsu-HaoLiu&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsu-HaoLiu&show_icons=true&hide_border=true&theme=gotham)
+![](https://komarev.com/ghpvc/?username=Tsu-HaoLiu)
 
 <!--
 **Tsu-HaoLiu/Tsu-HaoLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +55,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
