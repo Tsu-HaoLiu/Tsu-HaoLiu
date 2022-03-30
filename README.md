@@ -19,7 +19,7 @@
 
 ## 💾 My Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)
+[![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 ![PHP](https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
