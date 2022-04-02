@@ -22,7 +22,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![PHP](https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php)](https://www.php.net/docs.php)
 [![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
 ![Nodejs](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs)
