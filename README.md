@@ -9,7 +9,7 @@
 <p align="left">
   <ul>
     <li>📕 <strong>I’m currently learning:</strong> C++, System Design</li>
-    <li>🧐 <strong>Interested in:</strong> Full stack, DevOps, Infra, Security</li>
+    <li>🧐 <strong>Interested in:</strong> DevOps, Infra, Security</li>
     <li>🔧 <strong>Currently Working on:</strong> <a href="https://github.com/Tsu-HaoLiu/Toolbox-Modnotes-Integration">Toolbox modnotes intergration</a></li>
     <li>📫 <strong>Ask me anything on <a href="https://github.com/Tsu-HaoLiu/Tsu-HaoLiu/issues">my issues page.</a></strong></li>
     <li>⚡ <strong>Fun fact:</strong> I love space exploration</li>
