@@ -24,10 +24,8 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
 [![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)](https://docs.python.org/3/)
-<!--[![Nodejs](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs)](https://nodejs.org/en/docs/)-->
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql)
 ![SQLite3](https://img.shields.io/badge/-SQLite3-000?style=flat-square&logo=SQLite)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=mongodb)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-000?style=flat-square&logo=visualstudiocode)
