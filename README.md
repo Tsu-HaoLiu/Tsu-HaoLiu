@@ -2,6 +2,8 @@
 
 I'm a software developer and have a passion for learning, solving problems and working with code.
 
+I mainly work with HTML, CSS, Javascript and Python. I also like to tinker with low-level programming.
+
 ##
 
 <img align="right" src="https://user-images.githubusercontent.com/96331813/160326423-98f24494-b1ed-4e13-80f6-357ecb89d918.gif" width="300" />
@@ -9,7 +11,7 @@ I'm a software developer and have a passion for learning, solving problems and w
 <p align="left">
   <ul>
     <li>📕 <strong>I’m currently learning: </strong>System Design</li>
-    <li>🧐 <strong>Interested in:</strong> SRE, DevOps, Infra, Security</li>
+    <li>🧐 <strong>Interested in:</strong> SRE, DevOps</li>
     <li>🔧 <strong>Currently Working on:</strong> <a href="https://github.com/Tsu-HaoLiu/Micro-RedisDB">Miniature Redis DB</a></li>
     <li>📫 <strong>Ask me anything on <a href="https://github.com/Tsu-HaoLiu/Tsu-HaoLiu/issues">my issues page.</a></strong></li>
     <li>⚡ <strong>Fun fact:</strong> I love space exploration</li>
