@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Tsu-Hao ✨
 
-#### I enjoy solving problems with code, and committed full stack developer, with an eagerness and passion to learn. 
+I'm a software developer and have a passion for learning, solving problems and working with code.
 
 ##
 
