@@ -10,7 +10,7 @@
   <ul>
     <li>📕 <strong>I’m currently learning: </strong>System Design</li>
     <li>🧐 <strong>Interested in:</strong> SRE, DevOps, Infra, Security</li>
-    <li>🔧 <strong>Currently Working on:</strong> <a href="https://github.com/Tsu-HaoLiu/WiFi-QRcode">Wi-Fi QR code generator</a></li>
+    <li>🔧 <strong>Currently Working on:</strong> <a href="https://github.com/Tsu-HaoLiu/Micro-RedisDB">Miniature Redis DB</a></li>
     <li>📫 <strong>Ask me anything on <a href="https://github.com/Tsu-HaoLiu/Tsu-HaoLiu/issues">my issues page.</a></strong></li>
     <li>⚡ <strong>Fun fact:</strong> I love space exploration</li>
   </ul>
