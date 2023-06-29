@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Tsu-Hao ✨
 
-#### A versatile, detailed-oriented, and committed full stack developer, with an eagerness and passion to learn. 
+#### I enjoy solving problems with code, and committed full stack developer, with an eagerness and passion to learn. 
 
 ##
 
