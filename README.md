@@ -2,7 +2,7 @@
 
 I'm a software developer and have a passion for learning, solving problems and working with code.
 
-I mainly work with HTML, CSS, Javascript and Python. I also like to tinker with low-level programming.
+I mainly work with HTML, CSS, Javascript and Python. I also like to tinker with low-level programming on the side.
 
 ##
 
